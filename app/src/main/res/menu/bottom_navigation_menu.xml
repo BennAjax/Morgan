@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/fund_wallet"
+    android:enabled="true"
+    android:icon="@drawable/ic_baseline_credit_card_24"
+    android:title="FUND WALLET"/>
+    <item
+        android:id="@+id/send_money"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="SEND MONEY"/>
+    <item
+        android:id="@+id/history"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="HISTORY"/>
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:title="ACCOUNT"/>
+</menu>

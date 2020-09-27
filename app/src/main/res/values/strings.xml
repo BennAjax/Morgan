@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quest</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_button"><u>CHANGE</u></string>
+    <string name="random_text_1"><b>RICHARD</b> lorem ipsum dolor sit</string>
+    <string name="balance_text">BALANCE (in <b>NGN</b>)</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
