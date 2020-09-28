@@ -16,7 +16,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/righteous"
-        android:text="Q"
+        android:text="M"
         android:textColor="@android:color/white"
         android:textSize="120sp"
         android:textStyle="bold"
