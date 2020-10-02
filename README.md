@@ -6,7 +6,7 @@ This application may contain copyrighted material, the use of which may not have
 repository is available in an effort to showcase my android skills to employers. If you wish to use any copyrighted material from the site for
 purposes of your own that go beyond 'fair use', you must obtain expressed permission from the copyright owner.
 
-## Screenshot
+## Screenshots
 <p>
   <img src="screenshots/1.png" width="200">
   <img src="screenshots/2.png" width="200">
