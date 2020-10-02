@@ -1,10 +1,12 @@
-package com.maxsio.quest;
+package com.maxsio.morgan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+
+import com.maxsio.morgan.R;
 
 public class SplashActivity extends AppCompatActivity {
 

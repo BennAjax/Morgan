@@ -1,11 +1,12 @@
-package com.maxsio.quest;
+package com.maxsio.morgan;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.maxsio.morgan.R;
 
 public class MoneyActivity extends AppCompatActivity {
 

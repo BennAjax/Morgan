@@ -1,4 +1,4 @@
-package com.maxsio.quest;
+package com.maxsio.morgan;
 
 import org.junit.Test;
 
